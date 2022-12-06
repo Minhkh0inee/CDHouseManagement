@@ -1,0 +1,7 @@
+CD001,Avatar,Movie,Audio,223000.0,2013
+CD002,Pokemon,Movie,Audio,123000.0,2010
+CD003,Doraemon,Movie,Audio,203000.0,2010
+CD004,Arcade,Game,Audio,200000.0,2009
+CD005,Christmas,Music,Audio,800000.0,2003
+CD006,Tet Holiday,Music,Audio,599000.0,2012
+CD007,Apple song,Music,Audio,4000.0,2021
